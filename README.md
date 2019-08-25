@@ -1,7 +1,7 @@
 # Zapsure
 ## ℹ️ Project information
 - **Project Name**: ZapSure
-- **Short Project Description**: _A quick ML based insurance claim android app_
+- **Short Project Description**: _A ML based insurance app which makes claiming insurance a task of seconds_
 - **Team ID**:HX019
 - **Team Name**:Psifrous
 - **Team Members**: _Naman Bansal @psifrous, Swapnil Panwala @panwalas, Rushil Goomer @R-Goomer_

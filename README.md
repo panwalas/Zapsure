@@ -21,7 +21,7 @@ As technology moves ahead, so will we Zapsure will be soon including Health Insu
 
 #Model Overview
 
-**Model on 3 different scenarios:**
+**CNN Model on 3 different scenarios:**
 
 ![Perfect Car](https://github.com/psifrous/Zapsure/blob/master/outputs/1.PNG)
 
